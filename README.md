@@ -1,4 +1,4 @@
-\# Curso Git \& GitHub 2026
+# Curso Git \& GitHub 2026
 
 
 
@@ -14,7 +14,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e VSCode!
 
 
 
-\## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 
 1. git checkout -b
 2. cria ou atualiza arquivos
@@ -30,7 +30,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e VSCode!
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 1. git clone
 2. git checkout -b <nova\_branch>
@@ -51,7 +51,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e VSCode!
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projetos open-source)
+## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
 1. Fork do projeto para seu próprio GitHub
 2. git clone
