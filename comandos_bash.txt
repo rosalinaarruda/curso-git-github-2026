@@ -1,0 +1,19 @@
+ls → lista as pastas de onde você está
+
+cd → muda o diretório (pasta)
+
+pwd → mostra o caminho absoluto de onde você está
+
+..  → pasta acima
+
+mkdir → cria uma nova pasta
+
+cat nome_arquivo → mostra o que tem dentro do arquivo editável
+
+git init → faz o arquivo iniciar no git
+
+rm -rf . git → CUIDADO. Remove de forma recursiva e forçada todos os diretórios, sem confirmação.
+
+rm → remove arquivo ou diretório
+
+nano → editor de texto dentro do bash

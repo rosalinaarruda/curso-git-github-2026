@@ -1,0 +1,27 @@
+git init → inicia um repositório
+
+git status → mostra como está o diretório
+
+git add →inclui o arquivo que você quer que vá para o commit. Ele seleciona o que vai entrar no commit.
+
+git add . → inclui tudo da pasta atual
+
+git commit -m “mensagem”→ salva o que estava pendente
+
+git config —global [user.email](http://user.email) ‘meu@email.com’  → Configura o email.
+
+git config —global [user.](http://user.email)name ‘username’  → Configura o nome de usuário.
+
+git log → ve todo o histórico de commits
+
+git diff nomedoarquivo → mostra o que foi alterado no arquivo, a diferença do estado atual do commit para o que foi incluído.
+
+git reset → altera o estado de um arquivo se ele estiver na fase de stage.
+
+git checkout -b secundaria  → cria uma branch (cópia) secundária. (secundária é o nome da branch, pode ser qlqr um)
+
+git checkout main  → volta para a inicial, o -b é pra criar uma branch que ainda não existe.
+
+git merge secundaria → tras os conteúdos da branch secundária para a main. Usado tbm pra atualizar a branch de acordo com a main.
+
+git branch -D secundaria → para deletar uma branch (geralmente, após realizar o merge com a main)
