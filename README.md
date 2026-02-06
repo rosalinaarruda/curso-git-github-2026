@@ -8,9 +8,7 @@ Um curso do 'Teo Me Why' para iniciantes aprenderem a trabalhar com versionament
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e VSCode!
 
-
-
-
+Curso online no youtube, gratuito e completo.
 
 
 
